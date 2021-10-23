@@ -1,4 +1,4 @@
-# Welcome to ElectroHost's official github page!
+# Welcome to RebelNodes's official github page!
 Most of our repos are private but hi 😊
 
 <details>
